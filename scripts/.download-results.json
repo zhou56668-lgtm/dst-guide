@@ -1,0 +1,784 @@
+{
+  "success": [
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Pickaxe.png?322f3c",
+      "dest": "images/items/pickaxe.png",
+      "label": "Pickaxe → images/items/pickaxe.png",
+      "entity": {
+        "nameEn": "Pickaxe",
+        "id": "pickaxe"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Butter.png?313803",
+      "dest": "images/items/butter.png",
+      "label": "Butter → images/items/butter.png",
+      "entity": {
+        "nameEn": "Butter",
+        "id": "butter"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Dragonpie.png?a1c7ff",
+      "dest": "images/foods/dragonpie.png",
+      "label": "Dragonpie → images/foods/dragonpie.png",
+      "entity": {
+        "nameEn": "Dragonpie",
+        "id": "dragonpie"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Banana.png?ba11e2",
+      "dest": "images/items/banana.png",
+      "label": "Banana → images/items/banana.png",
+      "entity": {
+        "nameEn": "Banana",
+        "id": "banana"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Tallbird_Egg.png?1f26e6",
+      "dest": "images/items/tallbird_egg.png",
+      "label": "Tallbird Egg → images/items/tallbird_egg.png",
+      "entity": {
+        "nameEn": "Tallbird Egg",
+        "id": "tallbird_egg"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Pumpkin.png?9ebbc8",
+      "dest": "images/items/pumpkin.png",
+      "label": "Pumpkin → images/items/pumpkin.png",
+      "entity": {
+        "nameEn": "Pumpkin",
+        "id": "pumpkin"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Eggplant.png?4d449d",
+      "dest": "images/items/eggplant.png",
+      "label": "Eggplant → images/items/eggplant.png",
+      "entity": {
+        "nameEn": "Eggplant",
+        "id": "eggplant"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Taffy.png?e84907",
+      "dest": "images/foods/taffy.png",
+      "label": "Taffy → images/foods/taffy.png",
+      "entity": {
+        "nameEn": "Taffy",
+        "id": "taffy"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Spicy_Chili.png?ec866b",
+      "dest": "images/foods/spicy_chili.png",
+      "label": "Spicy Chili → images/foods/spicy_chili.png",
+      "entity": {
+        "nameEn": "Spicy Chili",
+        "id": "spicy_chili"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Cactus_Flesh.png?e88fdd",
+      "dest": "images/items/cactus_flesh.png",
+      "label": "Cactus Flesh → images/items/cactus_flesh.png",
+      "entity": {
+        "nameEn": "Cactus Flesh",
+        "id": "cactus_flesh"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Meaty_Stew.png?f42bb8",
+      "dest": "images/foods/meaty_stew.png",
+      "label": "Meaty Stew → images/foods/meaty_stew.png",
+      "entity": {
+        "nameEn": "Meaty Stew",
+        "id": "meaty_stew"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Guacamole.png?f625a1",
+      "dest": "images/foods/guacamole.png",
+      "label": "Guacamole → images/foods/guacamole.png",
+      "entity": {
+        "nameEn": "Guacamole",
+        "id": "guacamole"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Wet_Goop.png?b4ce7e",
+      "dest": "images/foods/wet_goop.png",
+      "label": "Wet Goop → images/foods/wet_goop.png",
+      "entity": {
+        "nameEn": "Wet Goop",
+        "id": "wet_goop"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Butterfly_Wings.png?b14761",
+      "dest": "images/items/butterfly_wings.png",
+      "label": "Butterfly Wings → images/items/butterfly_wings.png",
+      "entity": {
+        "nameEn": "Butterfly Wings",
+        "id": "butterfly_wings"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Axe.png?e4d46a",
+      "dest": "images/items/axe.png",
+      "label": "Axe → images/items/axe.png",
+      "entity": {
+        "nameEn": "Axe",
+        "id": "axe"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Froggle_Bunwich.png?bc9d3e",
+      "dest": "images/foods/froggle_bunwich.png",
+      "label": "Froggle Bunwich → images/foods/froggle_bunwich.png",
+      "entity": {
+        "nameEn": "Froggle Bunwich",
+        "id": "froggle_bunwich"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Birchnut.png?beda0b",
+      "dest": "images/items/birchnut.png",
+      "label": "Birchnut → images/items/birchnut.png",
+      "entity": {
+        "nameEn": "Birchnut",
+        "id": "birchnut"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Meat.png?ff3bf2",
+      "dest": "images/items/meat.png",
+      "label": "Meat → images/items/meat.png",
+      "entity": {
+        "nameEn": "Meat",
+        "id": "meat"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Monster_Meat.png?9251b3",
+      "dest": "images/items/monster_meat.png",
+      "label": "Monster Meat → images/items/monster_meat.png",
+      "entity": {
+        "nameEn": "Monster Meat",
+        "id": "monster_meat"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Pomegranate.png?fbccea",
+      "dest": "images/items/pomegranate.png",
+      "label": "Pomegranate → images/items/pomegranate.png",
+      "entity": {
+        "nameEn": "Pomegranate",
+        "id": "pomegranate"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Pierogi.png?18e74a",
+      "dest": "images/foods/pierogi.png",
+      "label": "Pierogi → images/foods/pierogi.png",
+      "entity": {
+        "nameEn": "Pierogi",
+        "id": "pierogi"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Flower_Salad.png?e5b95a",
+      "dest": "images/foods/flower_salad.png",
+      "label": "Flower Salad → images/foods/flower_salad.png",
+      "entity": {
+        "nameEn": "Flower Salad",
+        "id": "flower_salad"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Wigfrid_Original_Portrait.png?135786",
+      "dest": "images/characters/wigfrid.png",
+      "label": "Wigfrid → images/characters/wigfrid.png",
+      "entity": {
+        "id": "wigfrid",
+        "nameEn": "Wigfrid"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Corn.png?569259",
+      "dest": "images/items/corn.png",
+      "label": "Corn → images/items/corn.png",
+      "entity": {
+        "nameEn": "Corn",
+        "id": "corn"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Bacon_and_Eggs.png?30157a",
+      "dest": "images/foods/bacon_eggs.png",
+      "label": "Bacon and Eggs → images/foods/bacon_eggs.png",
+      "entity": {
+        "nameEn": "Bacon and Eggs",
+        "id": "bacon_eggs"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Battle_Spear.png?ea18b7",
+      "dest": "images/items/battle_spear.png",
+      "label": "Battle Spear → images/items/battle_spear.png",
+      "entity": {
+        "nameEn": "Battle Spear",
+        "id": "battle_spear"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Dark_Sword.png?eca2d0",
+      "dest": "images/items/dark_sword.png",
+      "label": "Dark Sword → images/items/dark_sword.png",
+      "entity": {
+        "nameEn": "Dark Sword",
+        "id": "dark_sword"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Ratatouille.png?e432ad",
+      "dest": "images/foods/ratatouille.png",
+      "label": "Ratatouille → images/foods/ratatouille.png",
+      "entity": {
+        "nameEn": "Ratatouille",
+        "id": "ratatouille"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Honey.png?d057e9",
+      "dest": "images/items/honey.png",
+      "label": "Honey → images/items/honey.png",
+      "entity": {
+        "nameEn": "Honey",
+        "id": "honey"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Turkey_Dinner.png?fdb0c4",
+      "dest": "images/foods/turkey_dinner.png",
+      "label": "Turkey Dinner → images/foods/turkey_dinner.png",
+      "entity": {
+        "nameEn": "Turkey Dinner",
+        "id": "turkey_dinner"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Fruit_Medley.png?f113b1",
+      "dest": "images/foods/fruit_medley.png",
+      "label": "Fruit Medley → images/foods/fruit_medley.png",
+      "entity": {
+        "nameEn": "Fruit Medley",
+        "id": "fruit_medley"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Boomerang.png?6a121e",
+      "dest": "images/items/boomerang.png",
+      "label": "Boomerang → images/items/boomerang.png",
+      "entity": {
+        "nameEn": "Boomerang",
+        "id": "boomerang"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Glass_Cutter.png?af274e",
+      "dest": "images/items/glass_cutter.png",
+      "label": "Glass Cutter → images/items/glass_cutter.png",
+      "entity": {
+        "nameEn": "Glass Cutter",
+        "id": "glass_cutter"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Meatballs.png?ee28b6",
+      "dest": "images/foods/meatballs.png",
+      "label": "Meatballs → images/foods/meatballs.png",
+      "entity": {
+        "nameEn": "Meatballs",
+        "id": "meatballs"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Wendy_Original_Portrait.png?2ddaf6",
+      "dest": "images/characters/wendy.png",
+      "label": "Wendy → images/characters/wendy.png",
+      "entity": {
+        "id": "wendy",
+        "nameEn": "Wendy"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Thulecite_Club.png?b6c2ed",
+      "dest": "images/items/thulecite_club.png",
+      "label": "Thulecite Club → images/items/thulecite_club.png",
+      "entity": {
+        "nameEn": "Thulecite Club",
+        "id": "thulecite_club"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Potato.png?cac9b1",
+      "dest": "images/items/potato.png",
+      "label": "Potato → images/items/potato.png",
+      "entity": {
+        "nameEn": "Potato",
+        "id": "potato"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Willow_Original_Portrait.png?df1923",
+      "dest": "images/characters/willow.png",
+      "label": "Willow → images/characters/willow.png",
+      "entity": {
+        "id": "willow",
+        "nameEn": "Willow"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Monster_Lasagna.png?af396f",
+      "dest": "images/foods/monster_lasagna.png",
+      "label": "Monster Lasagna → images/foods/monster_lasagna.png",
+      "entity": {
+        "nameEn": "Monster Lasagna",
+        "id": "monster_lasagna"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Carrot.png?e11b81",
+      "dest": "images/items/carrot.png",
+      "label": "Carrot → images/items/carrot.png",
+      "entity": {
+        "nameEn": "Carrot",
+        "id": "carrot"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Fishsticks.png?122e26",
+      "dest": "images/foods/fishsticks.png",
+      "label": "Fishsticks → images/foods/fishsticks.png",
+      "entity": {
+        "nameEn": "Fishsticks",
+        "id": "fishsticks"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/WX-78_Original_Portrait.png?7918f4",
+      "dest": "images/characters/wx78.png",
+      "label": "WX-78 → images/characters/wx78.png",
+      "entity": {
+        "id": "wx78",
+        "nameEn": "WX-78"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Drumstick.png?87012f",
+      "dest": "images/items/drumstick.png",
+      "label": "Drumstick → images/items/drumstick.png",
+      "entity": {
+        "nameEn": "Drumstick",
+        "id": "drumstick"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Fist_Full_of_Jam.png?76b6c9",
+      "dest": "images/foods/fist_full_of_jam.png",
+      "label": "Fist Full of Jam → images/foods/fist_full_of_jam.png",
+      "entity": {
+        "nameEn": "Fist Full of Jam",
+        "id": "fist_full_of_jam"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Onion.png?8a168a",
+      "dest": "images/items/onion.png",
+      "label": "Onion → images/items/onion.png",
+      "entity": {
+        "nameEn": "Onion",
+        "id": "onion"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Morning_Star.png?8ab89b",
+      "dest": "images/items/morning_star.png",
+      "label": "Morning Star → images/items/morning_star.png",
+      "entity": {
+        "nameEn": "Morning Star",
+        "id": "morning_star"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Honey_Nuggets.png?439cde",
+      "dest": "images/foods/honey_nuggets.png",
+      "label": "Honey Nuggets → images/foods/honey_nuggets.png",
+      "entity": {
+        "nameEn": "Honey Nuggets",
+        "id": "honey_nuggets"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Butter_Muffin.png?c6184a",
+      "dest": "images/foods/butter_muffin.png",
+      "label": "Butter Muffin → images/foods/butter_muffin.png",
+      "entity": {
+        "nameEn": "Butter Muffin",
+        "id": "butter_muffin"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Electric_Milk.png?4a6d4b",
+      "dest": "images/items/electric_milk.png",
+      "label": "Electric Milk → images/items/electric_milk.png",
+      "entity": {
+        "nameEn": "Electric Milk",
+        "id": "electric_milk"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Frog_Legs.png?523667",
+      "dest": "images/items/frog_legs.png",
+      "label": "Frog Legs → images/items/frog_legs.png",
+      "entity": {
+        "nameEn": "Frog Legs",
+        "id": "frog_legs"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Asparagus.png?14e2d0",
+      "dest": "images/items/asparagus.png",
+      "label": "Asparagus → images/items/asparagus.png",
+      "entity": {
+        "nameEn": "Asparagus",
+        "id": "asparagus"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Wilson_Original_Portrait.png?13bbf0",
+      "dest": "images/characters/wilson.png",
+      "label": "Wilson → images/characters/wilson.png",
+      "entity": {
+        "id": "wilson",
+        "nameEn": "Wilson"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Stuffed_Eggplant.png?35f97e",
+      "dest": "images/foods/stuffed_eggplant.png",
+      "label": "Stuffed Eggplant → images/foods/stuffed_eggplant.png",
+      "entity": {
+        "nameEn": "Stuffed Eggplant",
+        "id": "stuffed_eggplant"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Blue_Mushroom.png?422fad",
+      "dest": "images/items/mushroom_blue.png",
+      "label": "Blue Mushroom → images/items/mushroom_blue.png",
+      "entity": {
+        "nameEn": "Blue Mushroom",
+        "id": "mushroom_blue"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Berries.png?629a2e",
+      "dest": "images/items/berries.png",
+      "label": "Berries → images/items/berries.png",
+      "entity": {
+        "nameEn": "Berries",
+        "id": "berries"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Durian.png?569b17",
+      "dest": "images/items/durian.png",
+      "label": "Durian → images/items/durian.png",
+      "entity": {
+        "nameEn": "Durian",
+        "id": "durian"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Deerclops.png?177299",
+      "dest": "images/bosses/deerclops.png",
+      "label": "Deerclops → images/bosses/deerclops.png",
+      "entity": {
+        "id": "deerclops",
+        "nameEn": "Deerclops"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Morsel.png?fe6bb2",
+      "dest": "images/items/morsel.png",
+      "label": "Morsel → images/items/morsel.png",
+      "entity": {
+        "nameEn": "Morsel",
+        "id": "morsel"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Red_Mushroom.png?544149",
+      "dest": "images/items/mushroom_red.png",
+      "label": "Red Mushroom → images/items/mushroom_red.png",
+      "entity": {
+        "nameEn": "Red Mushroom",
+        "id": "mushroom_red"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Ham_Bat.png?5d0157",
+      "dest": "images/items/ham_bat.png",
+      "label": "Ham Bat → images/items/ham_bat.png",
+      "entity": {
+        "nameEn": "Ham Bat",
+        "id": "ham_bat"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Watermelon.png?5d6323",
+      "dest": "images/items/watermelon.png",
+      "label": "Watermelon → images/items/watermelon.png",
+      "entity": {
+        "nameEn": "Watermelon",
+        "id": "watermelon"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Ice.png?8c6842",
+      "dest": "images/items/ice.png",
+      "label": "Ice → images/items/ice.png",
+      "entity": {
+        "nameEn": "Ice",
+        "id": "ice"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Wolfgang_Original_Portrait.png?3dba4a",
+      "dest": "images/characters/wolfgang.png",
+      "label": "Wolfgang → images/characters/wolfgang.png",
+      "entity": {
+        "id": "wolfgang",
+        "nameEn": "Wolfgang"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Bat_Bat.png?caf4df",
+      "dest": "images/items/bat_bat.png",
+      "label": "Bat Bat → images/items/bat_bat.png",
+      "entity": {
+        "nameEn": "Bat Bat",
+        "id": "bat_bat"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Tentacle_Spike.png?cdeb64",
+      "dest": "images/items/tentacle_spike.png",
+      "label": "Tentacle Spike → images/items/tentacle_spike.png",
+      "entity": {
+        "nameEn": "Tentacle Spike",
+        "id": "tentacle_spike"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Fish.png?e5d8f2",
+      "dest": "images/items/fish_meat.png",
+      "label": "Fish → images/items/fish_meat.png",
+      "entity": {
+        "nameEn": "Fish",
+        "id": "fish_meat"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Bee_Queen.png?ab87be",
+      "dest": "images/bosses/bee-queen.png",
+      "label": "Bee Queen → images/bosses/bee-queen.png",
+      "entity": {
+        "id": "bee-queen",
+        "nameEn": "Bee Queen"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Darts.png?c0c6b0",
+      "dest": "images/items/darts.png",
+      "label": "Darts → images/items/darts.png",
+      "entity": {
+        "nameEn": "Darts",
+        "id": "darts"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Egg.png?60f33e",
+      "dest": "images/items/egg.png",
+      "label": "Egg → images/items/egg.png",
+      "entity": {
+        "nameEn": "Egg",
+        "id": "egg"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Dragon_Fruit.png?28d231",
+      "dest": "images/items/dragon_fruit.png",
+      "label": "Dragon Fruit → images/items/dragon_fruit.png",
+      "entity": {
+        "nameEn": "Dragon Fruit",
+        "id": "dragon_fruit"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Green_Mushroom.png?d89ea4",
+      "dest": "images/items/mushroom_green.png",
+      "label": "Green Mushroom → images/items/mushroom_green.png",
+      "entity": {
+        "nameEn": "Green Mushroom",
+        "id": "mushroom_green"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Honey_Ham.png?d02fb1",
+      "dest": "images/foods/honey_ham.png",
+      "label": "Honey Ham → images/foods/honey_ham.png",
+      "entity": {
+        "nameEn": "Honey Ham",
+        "id": "honey_ham"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Spear.png?63081f",
+      "dest": "images/items/spear.png",
+      "label": "Spear → images/items/spear.png",
+      "entity": {
+        "nameEn": "Spear",
+        "id": "spear"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Twigs.png?2fb15c",
+      "dest": "images/items/twigs.png",
+      "label": "Twigs → images/items/twigs.png",
+      "entity": {
+        "nameEn": "Twigs",
+        "id": "twigs"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Bearger.png?a53273",
+      "dest": "images/bosses/bearger.png",
+      "label": "Bearger → images/bosses/bearger.png",
+      "entity": {
+        "id": "bearger",
+        "nameEn": "Bearger"
+      }
+    },
+    {
+      "success": true,
+      "url": "https://dontstarve.wiki.gg/images/Dragonfly.png?fc0b9b",
+      "dest": "images/bosses/dragonfly.png",
+      "label": "Dragonfly → images/bosses/dragonfly.png",
+      "entity": {
+        "id": "dragonfly",
+        "nameEn": "Dragonfly"
+      }
+    }
+  ],
+  "fail": [
+    {
+      "success": false,
+      "reason": "not found on wiki",
+      "label": "Tomato → images/items/tomato.png",
+      "entity": {
+        "nameEn": "Tomato",
+        "id": "tomato"
+      }
+    },
+    {
+      "success": false,
+      "reason": "not found on wiki",
+      "label": "Kelp → images/items/kelp.png",
+      "entity": {
+        "nameEn": "Kelp",
+        "id": "kelp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "nav": {
+    "siteName": "DST Guides",
+    "guide": "Guides",
+    "characters": "Characters",
+    "boss": "Bosses",
+    "cooking": "Recipes",
+    "tools": "Tools",
+    "mods": "Mods"
+  },
+  "home": {
+    "hero": {
+      "tagline": "Don't Starve Together Community",
+      "title1": "In the Constant",
+      "title2": "Survive, Explore, Conquer",
+      "description": "The most comprehensive DST guide site — from your first autumn day as a beginner to the final showdown with the Ancient Fuelweaver, we walk with you through every adventure.",
+      "cta1": "Beginner's Guide",
+      "cta2": "Tools"
+    },
+    "stats": {
+      "characters": "Character Guides",
+      "recipes": "Recipes",
+      "bosses": "Boss Guides",
+      "tools": "Tools"
+    },
+    "featured": {
+      "title": "Featured Guides",
+      "subtitle": "From beginner to veteran, every guide you need is here",
+      "beginner1Title": "Beginner: First 10 Days Survival Guide",
+      "beginner1Desc": "Start your DST journey from scratch. Master basic survival skills: gathering, building, and combat basics.",
+      "beginner2Title": "Complete Four Seasons Guide",
+      "beginner2Desc": "Autumn, Winter, Spring, Summer — challenges and strategies for every season.",
+      "charactersTitle": "Complete Character Guide",
+      "charactersDesc": "In-depth analysis of all 18 playable characters: stats, skill trees, best roles, and synergy tips.",
+      "bossesTitle": "Boss Encyclopedia & Strategies",
+      "bossesDesc": "From Deerclops to the Ancient Fuelweaver — detailed stats, kiting techniques, and drops for every boss.",
+      "cookingTitle": "Complete Crock Pot Guide",
+      "cookingDesc": "50+ recipes, in-depth cooking mechanics, and efficient food combination recommendations."
+    },
+    "toolShowcase": {
+      "title": "Tools",
+      "subtitle": "Interactive tools to help you plan your game strategy more efficiently",
+      "recipe": {
+        "title": "Recipe Calculator",
+        "subtitle": "Crock Pot Simulator",
+        "desc": "Select 4 ingredients and calculate possible cooking results in real time. Supports all 50+ recipes with priority and probability calculations.",
+        "cta": "Get Started"
+      },
+      "damage": {
+        "title": "Damage Calculator",
+        "subtitle": "Damage Calculator",
+        "desc": "Select a character, weapon, and target to precisely calculate damage per hit and the number of hits needed to kill.",
+        "cta": "Get Started"
+      }
+    }
+  },
+  "guide": {
+    "title": "Guide Center",
+    "subtitle": "Whether you're a newcomer stepping into the Constant or a veteran seeking boss strategies, every guide you need is right here.",
+    "beginner": {
+      "title": "Beginner Guides",
+      "desc": "Learn DST from scratch: first day survival, seasonal strategies, basic combat techniques.",
+      "pageTitle": "Beginner Guides",
+      "pageDesc": "Start your DST journey from zero. These guides will take you step by step through the basics of survival."
+    },
+    "characters": {
+      "title": "Character Guides",
+      "desc": "In-depth analysis of 18 characters — find the one that suits you best.",
+      "pageTitle": "Character Guides",
+      "pageDesc": "Deep dive into each character's stats, abilities, and optimal roles. Find your perfect match."
+    },
+    "bosses": {
+      "title": "Boss Guides",
+      "desc": "Complete boss data, strategies, and kiting guides — stop getting wrecked.",
+      "pageTitle": "Boss Guides",
+      "pageDesc": "Detailed stats, attack patterns, kiting techniques, and drops for every boss. Conquer them all with ease."
+    },
+    "cooking": {
+      "title": "Cooking System",
+      "desc": "50+ recipes, cooking mechanics explained, best food recommendations.",
+      "pageTitle": "Cooking System Guide",
+      "pageDesc": "Master the secrets of the Crock Pot — 50+ recipes, cooking mechanics deep dive, optimal combinations."
+    },
+    "tools": {
+      "title": "Tools",
+      "desc": "Recipe calculator, damage calculator — smart tools to assist your game decisions.",
+      "pageTitle": "Tools",
+      "pageDesc": "Interactive tools to help you make better game decisions and improve survival efficiency."
+    },
+    "mods": {
+      "title": "Mods",
+      "desc": "Essential mod recommendations to enhance your gameplay experience."
+    }
+  },
+  "tools": {
+    "damage": {
+      "title": "Damage Calculator",
+      "desc": "Select character, weapon, and target to precisely calculate damage per hit and hits needed to kill.",
+      "selectCharacter": "Select Character",
+      "selectWeapon": "Select Weapon",
+      "selectTarget": "Select Target",
+      "default": "Default",
+      "customHp": "Custom HP",
+      "inputHp": "Enter HP",
+      "combatOptions": "Combat Options",
+      "foodBuff": "Food Buff",
+      "noBuff": "None",
+      "spicyBuff": "Spicy Seasoning (+20% Damage)",
+      "pepperBuff": "Pepper Powder (+50% Damage)",
+      "spicyPepper": "Spicy + Pepper (+60%)",
+      "armorCount": "Armor Pieces",
+      "noArmor": "No Armor",
+      "armor1": "1 Piece (80% Absorption)",
+      "armor2": "2 Pieces (96% Absorption)",
+      "character": "Character",
+      "result": "Damage Calculation Result",
+      "damagePerHit": "Damage Per Hit",
+      "hitsToKill": "Hits to Kill",
+      "target": "Target",
+      "estimatedSeconds": "Estimated Seconds (0.5s/hit)",
+      "viewDetails": "View Calculation Details"
+    },
+    "recipe": {
+      "title": "Select Ingredients",
+      "search": "Search ingredients...",
+      "clear": "Clear All",
+      "results": "Cooking Results",
+      "emptyHint": "Select at least 1 ingredient to see",
+      "emptyHint2": "possible cooking results",
+      "certain": "Guaranteed",
+      "highestPriority": "Highest Priority",
+      "alternatives": "Same-priority alternatives (weighted random, {count} possibilities):",
+      "health": "Health",
+      "hunger": "Hunger",
+      "sanity": "Sanity",
+      "all": "All",
+      "meat": "Meat",
+      "vegetable": "Vegetable",
+      "fruit": "Fruit",
+      "egg": "Egg",
+      "fish": "Fish",
+      "sweetener": "Sweetener",
+      "dairy": "Dairy",
+      "filler": "Filler",
+      "forSlot": "Select ingredient for slot {slot}:",
+      "noTags": "No Tags"
+    }
+  },
+  "mods": {
+    "title": "Mod Recommendations",
+    "subtitle": "Handpicked practical DST mods to enhance your gameplay experience. All mods are available for free on the Steam Workshop.",
+    "essential": "Essential Mods",
+    "recommended": "Recommended Mods",
+    "badgeEssential": "Essential",
+    "badgeRecommended": "Recommended"
+  },
+  "common": {
+    "home": "Home",
+    "guideCenter": "Guide Center",
+    "difficulty": {
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced",
+      "challenge": "Challenge"
+    },
+    "stats": {
+      "health": "Health",
+      "hunger": "Hunger",
+      "sanity": "Sanity"
+    },
+    "labels": {
+      "damage": "Base Damage",
+      "playersRecommended": "Players Recommended",
+      "unlock": "Unlock Method",
+      "damageModifier": "Damage Modifier",
+      "bestFor": "Best For",
+      "season": "Season",
+      "location": "Location",
+      "drops": "Drops",
+      "item": "Item",
+      "quantity": "Quantity",
+      "probability": "Rate",
+      "always": "Always",
+      "common": "Common",
+      "rare": "Rare"
+    },
+    "characterProfile": {
+      "intro": "Character Introduction",
+      "abilities": "Special Abilities",
+      "quirks": "Traits & Limitations",
+      "tips": "Tips & Tricks",
+      "baseStats": "Base Stats",
+      "charInfo": "Character Info",
+      "calcDamage": "Want to calculate {name}'s damage?",
+      "calcDamageDesc": "Use the damage calculator for precise output"
+    },
+    "bossProfile": {
+      "intro": "Boss Introduction",
+      "spawn": "Spawn Conditions",
+      "attackPattern": "Attack Patterns",
+      "kiting": "Kiting Strategy",
+      "kitingRhythm": "Kiting Rhythm: ",
+      "drops": "Drops",
+      "strategy": "Detailed Strategy",
+      "keyInfo": "Key Information",
+      "quickRef": "Quick Reference"
+    },
+    "skillTree": {
+      "title": "Skill Tree",
+      "insightPoints": "Total Insight Points: {points}",
+      "exclusive": "Exclusive",
+      "maxLevel": "Max Lv.",
+      "pts": "pts",
+      "reqPrior": "Req. prior"
+    },
+    "cookingLabels": {
+      "health": "Healing",
+      "hunger": "Food",
+      "sanity": "Sanity"
+    },
+    "tableOfContents": "Table of Contents",
+    "notFound": "Guide not found",
+    "characterNotFound": "Character not found",
+    "bossNotFound": "Boss not found",
+    "noLimitations": "No special limitations."
+  },
+  "footer": {
+    "navTitle": "Guide Navigation",
+    "beginner": "Beginner Guides",
+    "characters": "Character Guides",
+    "boss": "Boss Guides",
+    "cooking": "Cooking System",
+    "toolsTitle": "Tools",
+    "recipeCalc": "Recipe Calculator",
+    "damageCalc": "Damage Calculator",
+    "aboutTitle": "About",
+    "mods": "Mods",
+    "ads": "Advertise",
+    "contact": "Contact Us",
+    "siteTitle": "DST Guides",
+    "siteDesc": "The most comprehensive DST guide site. Character guides, boss strategies, recipes, and practical tools.",
+    "madeWithLove": "Made with ❤️ for DST Players",
+    "copyright": "© 2024 DST Guides. Not affiliated with Klei Entertainment."
+  },
+  "language": {
+    "switchTo": "中文"
+  }
+}

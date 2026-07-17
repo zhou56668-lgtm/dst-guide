@@ -1,0 +1,15 @@
+{
+  "title": "建家入门指南",
+  "description": "选址技巧、基地布局规划、核心建筑优先级、防火防巨鹿设计。",
+  "difficulty": "intermediate",
+  "sections": [
+    {
+      "heading": "选址原则",
+      "content": "一个好的基地位置决定了你整个游戏的便利程度。\n\n**理想的基地位置应该：**\n1. 靠近地图中心，方便去任何方向探索\n2. 附近有牛群（肥料和防御）\n3. 靠近虫洞（快速旅行）\n4. 不要太靠近蜘蛛巢（会不断扩张）\n5. 靠近猪王村（金块来源）\n6. 靠近洞穴入口（后期重要）\n\n**避免的位置：**\n- 沼泽地（触手危险）\n- 陨石区\n- 沙漠陨石坑附近"
+    },
+    {
+      "heading": "基地核心建筑",
+      "content": "按优先级排列的建筑清单：\n\n**第一优先：**\n1. 火坑（Fire Pit）\n2. 科学机器→炼金机器（Alchemy Engine）\n3. 箱子×2-3\n4. 烹饪锅（Crock Pot）×2\n5. 冰箱（Ice Box）\n\n**第二优先：**\n6. 帐篷（Tent）或遮阳棚\n7. 晾肉架（Drying Rack）×4\n8. 农田（Farm）×4-8\n9. 鸟笼（Bird Cage）\n10. 避雷针（Lightning Rod）\n\n**第三优先：**\n- 蜂箱（Bee Box）×4\n- 猪人房（Pig House）×2\n- 雪球机（Ice Flingomatic）"
+    }
+  ]
+}
